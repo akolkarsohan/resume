@@ -1,0 +1,47 @@
+SOHAN AKOLKAR						     
+
+804 NE 2nd Street, Apt. No 2,						           	                   
+Corvallis OR, USA – 97330  							   
+(541)-250-9289					
+akolkarsohan@gmail.com
+http://www.akolkarsohan.com
+https://www.linkedin.com/in/akolkarsohan
+
+EDUCATION 
+M.S., Computer and Information Science (Jun 2011)
+	University of Oregon (UO), Eugene, OR, USA		  		    		             
+	 
+B.E., Computer Engineering (Jun 2008)
+	University of Pune, Nashik, Maharashtra, India
+
+PRFRESSIONAL EXPERIENCE
+TransPerfect Translations, OneLink team, Corvallis, OR, USA (Jul 2011 – Present) 
+Systems Administrator 
+
+Web crawling client websites using UNIX based proxy tool and creating translatable files from databases. 
+Creating/managing Apache and proxy configuration files using Subversion and deploying them to different servers. 
+Automating recurring processes using BASH scripts and CRON jobs.
+Generating/maintaining RSA keys and VPN profiles for users.
+Installing/updating software and packages on testing, staging and production environments.
+Training new hires and assisting the manager in claiming/delegating tasks within the team.
+Gaining confidence and trust from the clients by explaining technical details about the proxy solution. 
+
+COMPUTER SKILLS
+
+Languages/Databases	: Bash, Python, Ruby, PHP, HTML, CSS, XML, JavaScript, MySQL
+Operating Systems	: Linux (RHEL/CentOS/Fedora/Ubuntu), Macintosh, Windows
+Other Tools		: AWS, CMS, Apache, Chef, Puppet, Version Control (Subversion, GitHub),Virtualization (VMWare, KVM),  JIRA, MySQL Workbench, LATEX 
+
+
+ACADEMIC PROJECTS
+Project Management System, Database Processing Course, UO, Eugene, OR  (Jan – Mar, 2011)
+
+Developed a website to manage multiple company projects with HTML, CSS, PHP as front end and MySQL as back end. Created Database schema using MySQL Workbench to retrieve normalized tables of company, project, department, tasks, user and calendar using MySQL queries.
+ 
+TAG Alignment, Bioinformatics Course, UO, Eugene, OR (Jan – Mar, 2011)
+Successfully extracted and counted mismatches of Transposon Associated Genome for Biology department by developing website in HTML, PHP, Java. The website consisted of web interface to input Raw Illumina Sequence Data and generate the count of potential mismatches in an output file on a local server using Linux, Apache and PHP. 
+
+OTHER INTERESTS
+
+Cooking: Fascinated by variety of cuisines around the world.
+Biking: Explore nature while biking and daily commute as a eco-friendly alternative to car. 
