@@ -7,6 +7,9 @@ akolkarsohan@gmail.com
 http://www.akolkarsohan.com
 https://www.linkedin.com/in/akolkarsohan
 
+SUMMARY
+System Administrator with 5 years of experience. Adept to resolving complex networking issues and demonstrating strong knowledge in fields of Linux administration, Virtualization, Cloud computing and Automation in fast-paced environment.
+
 EDUCATION 
 M.S., Computer and Information Science (Jun 2011)
 	University of Oregon (UO), Eugene, OR, USA		  		    		             
@@ -18,23 +21,23 @@ PROFESSIONAL EXPERIENCE
 TransPerfect Translations, OneLink team, Corvallis, OR, USA (Jul 2011 – Present) 
 Systems Administrator 
 
-• Web crawling client websites using UNIX based proxy tool and creating translatable files from databases.• Creating/managing Apache and proxy configuration files using Subversion and deploying them to 50+ testing/staging VMware virtualized machines.• Automating recurring processes using BASH/Python scripts and CRON jobs.• Part of the team that manages RSA keys and VPN profiles on RHEL (6/7) virtual machines forengineers in all US offices.• Monitoring logs and troubleshooting network related issues for load balanced production data-centers and AWS clusters consisting of 200+ servers (RHEL 6/7) spread across the globe.• Installing/updating software packages and patches on testing and staging environments.• Training new hires and assisting the manager in claiming/delegating tasks within the team.• Gaining confidence and trust from the clients by explaining technical details about the proxysolution.
+• Helping in localizing and maintaining 200+ websites for Fortune 500 and multinational clients using UNIX based proxy software.• Storing, querying and backing up web crawled data from client websites in MySQL database and generating files for the linguists to translate.• Provisioning 20+ testing and staging VMs using VMware ESXi server, vSphere clients and boot- strapping these nodes using Chef and Puppet.• Troubleshooting Apache configuration files to guarantee uninterrupted QA testing on 20+ staging servers.• Automating daily recurring software updates and cache backups using BASH/Python scripts and CRON jobs.• Fixing critical functional issues, tracking these issues with JIRA and collaborating code with engineers using Subversion.• Contributing to global team of 12 members by investigating network and outage related issues for 6 production data-centers and AWS EC2 instances consisting of 250+ load balanced servers 	     spread across the globe.• Training new hires, assisting the manager in claiming/delegating daily tasks within the team and documenting the company processes in Confluence to help improve the software.
 
 COMPUTER SKILLS
 
 • Languages/Databases : Bash, Python, Ruby, PHP, HTML, CSS, XML, JavaScript, MySQL 
-• Operating Systems : Linux (RHEL/CentOS/Fedora/Ubuntu), Macintosh, Windows• Other Tools : AWS, Apache, Automation (Chef, Puppet), Version Control (Subversion, GitHub), Virtualization (VMWare, KVM, Vagrant), JIRA, MySQL Workbench, LATEX 
+• Operating Systems : Linux (RHEL/CentOS/Fedora/Ubuntu), Macintosh, Windows• Other Tools : Amazon Web Services (EC2, S3, RDS, Route53, VPC), Apache, Automation (Chef, Puppet), Version Control (Subversion, GitHub), Virtualization (VMware, KVM, Vagrant), JIRA, MySQL Workbench
 
 
 ACADEMIC PROJECTS
 Project Management System, Database Processing Course, UO, Eugene, OR  (Jan – Mar, 2011)
 
-• Developed a website to manage multiple company projects with HTML, CSS, PHP as front end and MySQL as back end. Created Database schema using MySQL Workbench to retrieve normalized tables of company, project, department, tasks, user and calendar using MySQL queries.
+• Developed a website in order for any company to efficiently organize and manage their projects. The layout of the website was handled in HTML, CSS and PHP. The project data was stored in normalized tables (such as company, project, etc) and data was retrieved using MySQL queries.
  
 TAG Alignment, Bioinformatics Course, UO, Eugene, OR (Jan – Mar, 2011)
-• Successfully extracted and counted mismatches of Transposon Associated Genome for Biology department by developing website in HTML, PHP, Java. The website consisted of web interface to input Raw Illumina Sequence Data and generate the count of potential mismatches in anoutput file on a local server using Linux, Apache and PHP.
+• Developed website in Linux, Apache, MySQL and PHP (LAMP) to automate and improve the manual process of finding mismatches in Transposon Associated Genome for Biology department. The website consisted of web interface to input Raw Illumina Sequence Data and generate the count of potential mismatches in an output file on a local server.
 
 OTHER INTERESTS
 
-Cooking: Fascinated by variety of cuisines around the world.
-Biking: Explore nature while biking and daily commute as an eco-friendly alternative to car. 
+Cooking: Fascinated by variety of cuisines around the world and cook the dishes at home.
+Biking: Bike for daily commute as an eco-friendly and healthy alternative to car.
