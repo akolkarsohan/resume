@@ -26,7 +26,7 @@ Systems Administrator
 COMPUTER SKILLS
 
 • Languages/Databases : Bash, Python, Ruby, PHP, HTML, CSS, XML, JavaScript, MySQL 
-• Operating Systems : Linux (RHEL/CentOS/Fedora/Ubuntu), Macintosh, Windows• Other Tools : Amazon Web Services (EC2, S3, RDS, Route53, VPC), Apache, Automation (Chef, Puppet), Version Control (Subversion, GitHub), Virtualization (VMware, KVM, Vagrant), JIRA, MySQL Workbench
+• Operating Systems : Linux (RHEL/CentOS/Fedora/Ubuntu), Macintosh, Windows• Other Tools : Amazon Web Services (EC2, S3, RDS, Route53, VPC), Apache, Automation (Chef, Puppet), Version Control (Subversion, Git), Virtualization (VMware, KVM, Vagrant), JIRA, MySQL Workbench
 
 
 ACADEMIC PROJECTS
