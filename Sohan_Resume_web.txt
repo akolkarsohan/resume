@@ -10,18 +10,20 @@ https://www.linkedin.com/in/akolkarsohan
 SUMMARY
 System Administrator with 5 years of experience. Adept to resolving complex networking issues and demonstrating strong knowledge in fields of Linux administration, Virtualization, Cloud computing and Automation in fast-paced environment.
 
-EDUCATION 
-M.S., Computer and Information Science (Jun 2011)
-	University of Oregon (UO), Eugene, OR, USA		  		    		             
-	 
-B.E., Computer Engineering (Jun 2008)
-	University of Pune, Nashik, Maharashtra, India
-
 PROFESSIONAL EXPERIENCE
 TransPerfect Translations, OneLink team, Corvallis, OR, USA (Jul 2011 – Present) 
 Systems Administrator 
 
 • Helping in localizing and maintaining 200+ websites for Fortune 500 and multinational clients using UNIX based proxy software.• Storing, querying and backing up web crawled data from client websites in MySQL database and generating files for the linguists to translate.• Provisioning 20+ testing and staging VMs using VMware ESXi server, vSphere clients and boot- strapping these nodes using Chef and Puppet.• Troubleshooting Apache configuration files to guarantee uninterrupted QA testing on 20+ staging servers.• Automating daily recurring software updates and cache backups using BASH/Python scripts and CRON jobs.• Fixing critical functional issues, tracking these issues with JIRA and collaborating code with engineers using Subversion.• Contributing to global team of 12 members by investigating network and outage related issues for 6 production data-centers and AWS EC2 instances consisting of 250+ load balanced servers 	     spread across the globe.• Training new hires, assisting the manager in claiming/delegating daily tasks within the team and documenting the company processes in Confluence to help improve the software.
+
+CERTIFICATION
+AWS Certified Solutions Architect – Associate   (Aug 2016 – Aug 2018)
+
+EDUCATION 
+M.S., Computer and Information Science (Jun 2011)
+	University of Oregon (UO), Eugene, OR, USA		  		    	 
+B.E., Computer Engineering (Jun 2008)
+	University of Pune, Nashik, Maharashtra, India
 
 COMPUTER SKILLS
 
@@ -34,9 +36,6 @@ Project Management System, Database Processing Course, UO, Eugene, OR  (Jan – 
 
 • Developed a website in order for any company to efficiently organize and manage their projects. The layout of the website was handled in HTML, CSS and PHP. The project data was stored in normalized tables (such as company, project, etc) and data was retrieved using MySQL queries.
  
-TAG Alignment, Bioinformatics Course, UO, Eugene, OR (Jan – Mar, 2011)
-• Developed website in Linux, Apache, MySQL and PHP (LAMP) to automate and improve the manual process of finding mismatches in Transposon Associated Genome for Biology department. The website consisted of web interface to input Raw Illumina Sequence Data and generate the count of potential mismatches in an output file on a local server.
-
 OTHER INTERESTS
 
 Cooking: Fascinated by variety of cuisines around the world and cook the dishes at home.
